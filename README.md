@@ -62,3 +62,11 @@ It is recomended to install the backend first, make sure you have Python 3.8, Pi
 ## Publish your website!
 
 This boilerplate it's 100% integrate with Herkou, just by pushing your changes to the heroku repository it will deploy: `$ git push heroku main`
+
+##Wireframe App
+This link redirects to Wireframe Project built via MIRO
+https://miro.com/app/board/o9J_lQ1MmZ4=/
+
+#Methodology
+This link redirects to Methodology used by Tomatelo App
+https://github.com/AnMora/react-flask-hello/projects/1
